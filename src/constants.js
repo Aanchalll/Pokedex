@@ -1,0 +1,8 @@
+export const UPDATE_DATA = 'UPDATE_DATA'
+export const LOADING_DATA = 'LOADING_DATA'
+export const FAILED_DATA = 'FAILED_DATA'
+
+export const POKEMON_LIST = 'POKEMON_LIST'
+export const LOADING_POKEMON_LIST = 'LOADING_POKEMON_LIST'
+
+export const RESULT_PER_PAGE_ARRAY = [5, 10, 15]
